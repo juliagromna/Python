@@ -6,3 +6,6 @@ zwraca liczbe Cows & Bulls. Liczba przy słowie Cows oznacza literę występują
 pozycji, liczba przy słowie Bulls oznacza poprawną literę na poprawnej pozycji. Gra kończy się kiedy
 liczba przy Bulls będzie taka sama jak długość słowa wylosowanego przez komputer._
           
+**Czwórki** - Projekt zaliczeniowy; gra wykorzystująca bibliotekę pygame;
+
+_Mobilna wersja gry planszowej Czwórki znana też jako Connect 4_
